@@ -1,0 +1,47 @@
+{
+  "fa01b7bd-2d00-4c7c-b7b4-222c77c3d43b": {
+    "id": "fa01b7bd-2d00-4c7c-b7b4-222c77c3d43b",
+    "name": "Snehal",
+    "email": "snehal@gamil.com",
+    "gender": "Female",
+    "age": 90,
+    "weight": 54.0,
+    "height": 1.63,
+    "smoker": false,
+    "income_lpa": 5.0,
+    "occupation": "private_job",
+    "bmi": 20.32,
+    "lifestyle_risk": "low",
+    "age_group": "senior"
+  },
+  "99420661-5abf-4abf-99c9-c5de679b564c": {
+    "id": "99420661-5abf-4abf-99c9-c5de679b564c",
+    "name": "Aditya",
+    "email": "adi@gamil.com",
+    "gender": "Male",
+    "age": 22,
+    "weight": 90.0,
+    "height": 1.65,
+    "smoker": true,
+    "income_lpa": 6.0,
+    "occupation": "freelancer",
+    "bmi": 33.06,
+    "lifestyle_risk": "high",
+    "age_group": "young"
+  },
+  "acb76eab-3131-4500-b3e1-557c866ab440": {
+    "id": "acb76eab-3131-4500-b3e1-557c866ab440",
+    "name": "Raj",
+    "email": "raj@gamil.com",
+    "gender": "Male",
+    "age": 50,
+    "weight": 70.0,
+    "height": 1.8,
+    "smoker": false,
+    "income_lpa": 7.0,
+    "occupation": "business_owner",
+    "bmi": 21.6,
+    "lifestyle_risk": "low",
+    "age_group": "middle_aged"
+  }
+}
