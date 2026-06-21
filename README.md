@@ -82,11 +82,6 @@ curl -X POST http://127.0.0.1:8001/patient/predict \
 - This project persists data to `sample_data.json` for simplicity. For production use, swap in a database.
 - Ensure `prediction_model/insurance_model.pkl` is present before calling prediction endpoints.
 
-## Contributing
+Reference - `https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ`
 
-Contributions welcome — open issues or PRs.
-
-## License
-
-Choose a license for your project.
 
